@@ -13,9 +13,10 @@ This is my solution to an advances exercise of the course "Complete C# Mastercla
 ----
 The result of execution for the default string should be:
   "Hello, my name is John and I am 30 years old."
+----
 
 
-I was given a few lines of code that needed to be completed:
+### I was given a few lines of code that needed to be completed: ###
 
 using System;
 
@@ -34,4 +35,5 @@ namespace Coding.Exercise
         // TODO
     }
 }
+
 
